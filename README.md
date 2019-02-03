@@ -17,7 +17,7 @@ Score the best model on test-data | https://github.com/olszewskip/Fashion_MNIST/
 
 The notebooks were run on Colab.
 
-All files, including the intemediate data, are here: https://drive.google.com/open?id=1DbbL4hL1qKrXEjbaDUxGxp--n20Bl0oH .
+All files, including the intemediate data, are here: https://drive.google.com/open?id=1DbbL4hL1qKrXEjbaDUxGxp--n20Bl0oH
 
 #### TODO:
 * The project lacks a simple baseline. One should try to use PCA(20) with a random-forest on top or something similar, to get a better feeling how crucial the deep-learning is in this case.
